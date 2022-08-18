@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: "Alumni Sans Inline One", cursive;
+}
+button {
+  margin: auto 50px auto 50px;
+  width: 100px;
+  height: 30px;
+}
+.main_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+h1 {
+  font-size: 200px;
+  margin: 0;
+}
+h3 {
+  font-size: 100px;
+  margin: 0;
+}

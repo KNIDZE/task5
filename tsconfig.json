@@ -1,0 +1,9 @@
+{
+  "files": ["src/main.ts", "src/css/style.css"],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es2015",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true
+  }
+}
